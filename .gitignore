@@ -141,3 +141,7 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+encore.gen.go
+encore.gen.cue
+/.encore
+/encore.gen
